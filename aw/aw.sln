@@ -14,6 +14,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "files", "files", "{D4B7EA69
 		readme.txt = readme.txt
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "awBusinessLogic", "awBusinessLogic\awBusinessLogic.csproj", "{D537D877-9D1C-49D2-8819-3381B16226DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{B5F3450A-E759-466E-9793-57566216AF36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5F3450A-E759-466E-9793-57566216AF36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5F3450A-E759-466E-9793-57566216AF36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D537D877-9D1C-49D2-8819-3381B16226DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D537D877-9D1C-49D2-8819-3381B16226DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D537D877-9D1C-49D2-8819-3381B16226DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D537D877-9D1C-49D2-8819-3381B16226DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
